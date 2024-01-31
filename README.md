@@ -6,7 +6,5 @@ Projetos publicados na web:
 
 [Ir para seção](#Financeiro)
 
-[Link 1](destino)
-
-[destino]:https://app.powerbi.com/view?r=eyJrIjoiZjllNjAwNDktYmE4MS00NjdhLThjYWUtNzgyMjZlYjBhODUyIiwidCI6ImI3MGRlMDJiLTNjMTktNDBjMi04N2U0LWYyNmQ5NDA3ZDdhMCJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjllNjAwNDktYmE4MS00NjdhLThjYWUtNzgyMjZlYjBhODUyIiwidCI6ImI3MGRlMDJiLTNjMTktNDBjMi04N2U0LWYyNmQ5NDA3ZDdhMCJ9
 

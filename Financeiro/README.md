@@ -21,9 +21,7 @@ Então, em resumo, as etapas para realização da tarefa foram:
 2. Criação de uma tabela dcalendário;
 3. Criação do relacionamento entre as tabelas em Star Schema;
 ![Esquema de relacionamentos](https://github.com/DeniseBP/Relatorios_PBI/assets/135619206/013f2f87-1cdf-4f5e-a7e2-75353cad8619)
-
+5. Construção das medidas e dos visuais;
 4. Construção da identidade visual (BG, cores...);
 ![Slide1](https://github.com/DeniseBP/Relatorios_PBI/assets/135619206/edcbf88e-5218-4fb9-83ec-54ee38eed298)
-
-5. Construção das medidas e dos visuais;
 6. Construção do menu retrátil.

@@ -15,13 +15,13 @@ As perguntas/solicitações enviadas pela empresa para elaborar o relatório for
 9. Criar um gráfico de pizza agrupado por tipo de receita e sua representatividade em % no faturamento de 2021.
 10. Criar um gráfico de linhas que exiba o percentual de crescimento do faturamento em relação ao mês anterior.
 
-Para responder às perguntas, foi enviado uma base de dados em excel (.xlsx), também disponível nesta pasta.
-Então, em resumo, as etapas para realização da tarefa foram:
+Para responder às perguntas, foi enviada uma base de dados em excel (.xlsx), também disponível nesta pasta.
+Em resumo, as etapas para realização da tarefa foram:
 1. Obtenção dos dados da planilha em excel (neste caso em específico não foi necessário nenhum tratamento no Power Query, a base estava muito limpa);
 2. Criação de uma tabela dcalendário;
 3. Criação do relacionamento entre as tabelas em Star Schema;
 ![Esquema de relacionamentos](https://github.com/DeniseBP/Relatorios_PBI/assets/135619206/013f2f87-1cdf-4f5e-a7e2-75353cad8619)
 5. Construção das medidas e dos visuais;
-4. Construção da identidade visual (BG, cores...);
+4. Construção da identidade visual (BG, cores...) em .pptx;
 ![Slide1](https://github.com/DeniseBP/Relatorios_PBI/assets/135619206/edcbf88e-5218-4fb9-83ec-54ee38eed298)
-6. Construção do menu retrátil.
+6. Construção do menu retrátil utilizando bookmarks.

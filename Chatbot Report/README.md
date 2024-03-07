@@ -1,9 +1,23 @@
-# Portifólio_Power BI
+# Relatório Chatbot
 
-Bem vindos (as)! Este é um repositório de relatórios feitos por mim na ferramenta de data viz Power BI. Em cada pasta está um relatório diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
+Esse relatório foi desenvolvido como teste para uma vaga em uma empresa do ramo de Tecnologia da Informação.
 
-**Link dos projetos publicados no Power BI Serviço:**
+A criação do relatório seguiu a orientação abaixo, enviada pela empresa, que também disponibilizou duas bases de dados em .csv.
 
-- [Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjllNjAwNDktYmE4MS00NjdhLThjYWUtNzgyMjZlYjBhODUyIiwidCI6ImI3MGRlMDJiLTNjMTktNDBjMi04N2U0LWYyNmQ5NDA3ZDdhMCJ9)
-- [People Analytics](https://app.powerbi.com/groups/me/reports/90f78641-77cf-4e43-a897-0164eed18e5b/ReportSection?experience=power-bi)
+QUAL O OBJETIVO?
 
+Seu objetivo é analisar os dados registrados pelo Chatbot e responder/comentar os pontos abaixo:
+- o que os usuários buscavam no Chatbot? Acessaram o Chatbot com qual objetivo?
+- diante das análises realizadas, quais são as tendências de comportamento? O que te chamou a atenção com relação à utilização da plataforma pelos usuários?
+- aponte pelo menos 3 insights embasados em dados que podem trazer melhoria e/ou evolução para o Chatbot.
+
+2) COMO SERÁ A APRESENTAÇÃO DOS RESULTADOS?
+
+Você deverá montar uma APRESENTAÇÃO com os dados acima, como se fosse apresentar para o cliente dono do Chatbot. Sua apresentação deve conter o viés analítico e o viés de negócios e ter duração máxima de 15min.
+
+Em resumo, as etapas para realização da tarefa foram:
+1. Obtenção dos dados dos arquivos .csv e tratamento necessário no Power Query (basicamente a criação de uma chave composta em ambos os arquivos e posteriormente uma mesclagem entre as duas bases;
+2. Criação de uma tabela dcalendário em M;
+3. Criação do relacionamento entre a tabela mesclada e a dCalendario;
+5. Construção das medidas e dos visuais;
+6. Construção da identidade visual (BG, cores...) em .pptx.

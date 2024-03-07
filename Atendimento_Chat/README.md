@@ -1,9 +1,16 @@
-# Portifólio_Power BI
+# Relatório Atendimento de Chat
 
-Bem vindos (as)! Este é um repositório de relatórios feitos por mim na ferramenta de data viz Power BI. Em cada pasta está um relatório diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
+Esse relatório foi desenvolvido para uma empresa do ramo de Tecnologia da Informação e possui dados fictícios.
 
-**Link dos projetos publicados no Power BI Serviço:**
+A criação do relatório seguiu a orientação do coordenador da área, que disponibilizou as bases de dados em excel e orientou o trabalho com uma documentação.
 
-- [Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjllNjAwNDktYmE4MS00NjdhLThjYWUtNzgyMjZlYjBhODUyIiwidCI6ImI3MGRlMDJiLTNjMTktNDBjMi04N2U0LWYyNmQ5NDA3ZDdhMCJ9)
-- [People Analytics](https://app.powerbi.com/groups/me/reports/90f78641-77cf-4e43-a897-0164eed18e5b/ReportSection?experience=power-bi)
+QUAL O OBJETIVO?
+Migrar para o PBI as análises já existentes em excel.
 
+
+Em resumo, as etapas para realização da tarefa foram:
+1. Obtenção dos dados dos arquivos .csv e tratamento necessário no Power Query (basicamente a criação de uma chave composta em ambos os arquivos e posteriormente uma mesclagem entre as duas bases;
+2. Criação de uma tabela dcalendário em M;
+3. Criação do relacionamento entre a tabela mesclada e a dCalendario;
+5. Construção das medidas e dos visuais;
+6. Construção da identidade visual (BG, cores...) em .pptx.

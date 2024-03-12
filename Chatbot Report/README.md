@@ -4,7 +4,7 @@ Esse relatório foi desenvolvido como teste para uma vaga em uma empresa do ramo
 
 A criação do relatório seguiu a orientação abaixo, enviada pela empresa, que também disponibilizou duas bases de dados em .csv.
 
-QUAL O OBJETIVO?
+1) QUAL O OBJETIVO?
 
 Seu objetivo é analisar os dados registrados pelo Chatbot e responder/comentar os pontos abaixo:
 - o que os usuários buscavam no Chatbot? Acessaram o Chatbot com qual objetivo?

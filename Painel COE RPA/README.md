@@ -10,9 +10,7 @@ São 3 visões:
 As bases de dados estão em excel (.xlsx), hospedadas no Google Drive e também disponíveis nesta pasta.
 Em resumo, as etapas para realização da tarefa foram:
 1. ETL das planilhas em excel;
-2. Criação de uma tabela dcalendário e outras tabelas dimensão, baseadas nas tabelas físicas existentes;
+2. Criação de uma tabela dcalendário em DAX e outras tabelas dimensão, baseadas nas tabelas físicas existentes;
 3. Criação do relacionamento entre as tabelas;
 4. Construção das medidas e dos visuais;
 5. Construção da identidade visual (BG, cores...).
-
-

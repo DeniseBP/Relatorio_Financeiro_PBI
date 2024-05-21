@@ -6,7 +6,7 @@ A criação do relatório seguiu a orientação abaixo, enviada pela empresa, qu
 
 1) QUAL O OBJETIVO?
 
-Seu objetivo é analisar os dados registrados pelo Chatbot e responder/comentar os pontos abaixo:
+Analisar os dados registrados pelo Chatbot e responder/comentar os pontos abaixo:
 - o que os usuários buscavam no Chatbot? Acessaram o Chatbot com qual objetivo?
 - diante das análises realizadas, quais são as tendências de comportamento? O que te chamou a atenção com relação à utilização da plataforma pelos usuários?
 - aponte pelo menos 3 insights embasados em dados que podem trazer melhoria e/ou evolução para o Chatbot.
